@@ -12,3 +12,4 @@ requests
 csv
 os
 matplotlib.pyplot
+ploty
