@@ -2,7 +2,7 @@
 
 A project using the elevation api.
 
-# libraries
+# Libraries
 
 This project uses a lot of libraries such as;
 
