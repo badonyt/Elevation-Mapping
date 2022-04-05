@@ -1,1 +1,1 @@
-howmanyfromapi = 100
+howmanyfromapi = 20
